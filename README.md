@@ -1,5 +1,8 @@
 ## :trophy: 수상경력 및 활동
+- Arduino 심화 학습 참여
+- 한라 만도 코딩 교육 참여
 - KB 국민은행 소프트웨어 경진대회 참가
+- 증강현실 교육 수강
 - GVE(Graphics & Virtual Environment Lab.) 연구실 학부연구생
 - 소프트웨어 캡스톤 디자인 (장려상)
 - 교내 행사 한림모여코딩 프로그램 (우수활동팀 선정)
@@ -19,18 +22,35 @@
 - 스마트 포트폴리오
   - 포트폴리오 제작 모바일 앱 구현
   - Android 스튜디오, Kotlin 프로그래밍
+- 2D 플랫폼 액션 게임
+  - Unity 기반 액션 게임
+- 마법 대장간 게임
+  - Unity 기반 2D 맵 디자인
 - The Fairy
   - 동화 <선녀와 나무꾼> 각색 스토리. 선녀의 입장에서 다친 사슴을 돌봐주고 나무꾼을 만나게 되는 Unity 기반 가상현실 게임
   - HMD : Oculus Quest 2 사용
 - Unity 기반 심박수 활용 VR 공포게임 개발
   - 갤럭시 워치를 통해 심박수 데이터를 얻은 뒤 게임 진행에 반영
   - HMD : Oculus Quest 2 사용
+- AR Face Filter 앱 개발
+  - Unity ARFoundation 사용용
 - VR 요리체험 프로그램 개발
   - 노인 대상 인지능력 및 일상생활능력 향상 목적 Unity 프로그램
   - 마트에서 장을 본 뒤 주방에서 구매한 재료로 요리를 진행
   - HMD : Oculus Quest Pro 사용
+    
 &nbsp;
 
+## ✏️ 개인 학습
+- Unreal Chaos 기능 튜토리얼 학습
+- Blender 3D Modeling 강의 수강
+- ARFoundaion 강의 수강
+- <Unreal Engine 5로 만드는 나만의 3D 영화 세트> 책 학습
+   - Blender Modeling
+   - Unreal Rigging
+- Unreal niagara 튜토리얼 학습
+  
+&nbsp;
 
 ## :page_facing_up: 논문
 - [노인을 위한 가상현실 요리체험 인지능력 향상 프로그램](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714779)
@@ -48,11 +68,13 @@
  ### 학부생 과목
 - 컴퓨터 프로그래밍1 (C)
 - 컴퓨터 프로그래밍2 (JAVA)
-- 컴퓨터활용 (HTML)
+- 컴퓨터활용1 (HTML)
+- 컴퓨터활용1 (Arduino)
 - 이산수학
 - 데이터통신
 - 자료구조
 - 디지털논리회로
+- 선형대수
 - 컴퓨터구조
 - 컴퓨터네트워크
 - 인공지능 (Python)
