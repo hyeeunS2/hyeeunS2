@@ -33,8 +33,8 @@
 
 
 ## :page_facing_up: 논문
-- 노인을 위한 가상현실 요리체험 인지능력 향상 프로그램(https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714779)
-- 심박수를 활용한 VR 반응형 콘텐츠(https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492789)
+- [노인을 위한 가상현실 요리체험 인지능력 향상 프로그램](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714779)
+- [심박수를 활용한 VR 반응형 콘텐츠](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492789)
 
  &nbsp;
 
