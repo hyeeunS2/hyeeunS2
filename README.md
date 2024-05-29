@@ -30,16 +30,11 @@
   - 마트에서 장을 본 뒤 주방에서 구매한 재료로 요리를 진행
   - HMD : Oculus Quest Pro 사용
 &nbsp;
-- 노인을 위한 가상현실 요리체험 인지능력 향상 프로그램
-https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714779
-- 심박수를 활용한 VR 반응형 콘텐츠
-  https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492789
+
 
 ## :page_facing_up: 논문
-| First Header | Second Header |
-| ------------ | ------------- |
-| Content Cell | Content Cell  |
-| Content Cell | Content Cell  |
+- 노인을 위한 가상현실 요리체험 인지능력 향상 프로그램(https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714779)
+- 심박수를 활용한 VR 반응형 콘텐츠(https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492789)
 
  &nbsp;
 
