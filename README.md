@@ -40,7 +40,7 @@ https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492789
 |------|---|---|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3
+|테스트1|테스트2|테스트3|
 
  &nbsp;
 
