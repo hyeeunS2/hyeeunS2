@@ -13,11 +13,11 @@
 
 ## :computer: 프로젝트
 - Mission
-  - 미니게임을 통해 환경에 대한 경각심을 가지도록 하는 Unity 기반 방탈출 게임.
+  - 미니게임을 통해 환경에 대한 경각심을 가지도록 하는 Unity 기반 방탈출 게임
 - Become Humane
-  - 괴물이 인간이 되기 위해 인간들을 잡는 Unity 게임.
+  - 괴물이 인간이 되기 위해 인간들을 잡는 Unity 게임
 - 스마트 포트폴리오
-  - 포트폴리오 제작 모바일 앱 구현.
+  - 포트폴리오 제작 모바일 앱 구현
   - Android 스튜디오, Kotlin 프로그래밍
 - The Fairy
   - 동화 <선녀와 나무꾼> 각색 스토리. 선녀의 입장에서 다친 사슴을 돌봐주고 나무꾼을 만나게 되는 Unity 기반 가상현실 게임
@@ -36,6 +36,11 @@
 https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714779
 - 심박수를 활용한 VR 반응형 콘텐츠
 https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492789
+|제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3
 
  &nbsp;
 
