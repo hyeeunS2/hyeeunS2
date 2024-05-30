@@ -38,6 +38,8 @@
   - 노인 대상 인지능력 및 일상생활능력 향상 목적 Unity 프로그램
   - 마트에서 장을 본 뒤 주방에서 구매한 재료로 요리를 진행
   - HMD : Oculus Quest Pro 사용
+- Artwork 3D Modeling
+  - 미술품을 3D로 Modeling 및 Animation 삽입
     
 &nbsp;
 
@@ -52,7 +54,7 @@
    - xNormal Texture Baking
    - MetaHuman
    - Quixel mixer Model Texturing
-   - Unreal Rigging, Sequencer
+   - Unreal Rigging, Animation, Sequencer
 - Unreal niagara system 튜토리얼 학습
 - Unity ARFoundation 튜토리얼 및 강의 수강
   
