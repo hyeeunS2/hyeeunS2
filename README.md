@@ -38,8 +38,6 @@
   - 노인 대상 인지능력 및 일상생활능력 향상 목적 Unity 프로그램
   - 마트에서 장을 본 뒤 주방에서 구매한 재료로 요리를 진행
   - HMD : Oculus Quest Pro 사용
-- Artwork 3D Modeling
-  - 미술품을 3D로 Modeling 및 Animation 삽입
     
 &nbsp;
 
@@ -66,9 +64,12 @@
 
  &nbsp;
 
-## :sparkles: 참여 중인 프로젝트
-- 핵융합 선도 기술 개발 사업 참여 (핵융합 플라즈마 3차원 가시화)
+## :sparkles: 진행 중인 프로젝트
+- 핵융합 선도 기술 개발 사업 참여
+  - 핵융합 플라즈마 3차원 가시화
 - 노인을 위한 VR 프로그램 개발 : GEMINI 연동 가상 에이전트의 실체화
+- Artwork 3D Modeling
+  - 미술품을 3D로 Modeling 및 Animation 삽입
   
  &nbsp;
  
