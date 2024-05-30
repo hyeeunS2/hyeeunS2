@@ -54,6 +54,7 @@
    - Quixel mixer Model Texturing
    - Unreal Rigging, Sequencer
 - Unreal niagara system 튜토리얼 학습
+- Unity ARFoundation 튜토리얼 및 강의 수강
   
 &nbsp;
 
