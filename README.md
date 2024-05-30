@@ -33,7 +33,7 @@
   - 갤럭시 워치를 통해 심박수 데이터를 얻은 뒤 게임 진행에 반영
   - HMD : Oculus Quest 2 사용
 - AR Face Filter 앱 개발
-  - Unity ARFoundation 사용용
+  - Unity ARFoundation 사용
 - VR 요리체험 프로그램 개발
   - 노인 대상 인지능력 및 일상생활능력 향상 목적 Unity 프로그램
   - 마트에서 장을 본 뒤 주방에서 구매한 재료로 요리를 진행
