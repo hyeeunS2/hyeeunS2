@@ -67,9 +67,10 @@
 ## :sparkles: 진행 중인 프로젝트
 - 핵융합 선도 기술 개발 사업 참여
   - 핵융합 플라즈마 3차원 가시화
-- 노인을 위한 VR 프로그램 개발 : GEMINI 연동 가상 에이전트의 실체화
 - Artwork 3D Modeling
   - 미술품을 3D로 Modeling 및 Animation 삽입
+- 노인을 위한 VR 프로그램 개발 : GEMINI 연동 가상 에이전트의 실체화
+
   
  &nbsp;
  
