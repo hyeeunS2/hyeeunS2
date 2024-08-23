@@ -31,15 +31,19 @@
 - The Fairy
   - 동화 <선녀와 나무꾼> 각색 스토리. 선녀의 입장에서 다친 사슴을 돌봐주고 나무꾼을 만나게 되는 Unity 기반 가상현실 게임
   - HMD : Oculus Quest 2 사용
-- Unity 기반 심박수 활용 VR 공포게임 개발
+- Unity 기반 심박수 활용 VR 공포게임
   - 갤럭시 워치를 통해 심박수 데이터를 얻은 뒤 게임 진행에 반영
   - HMD : Oculus Quest 2 사용
-- AR Face Filter 앱 개발
+- AR Face Filter 앱
   - Unity ARFoundation 사용
-- VR 요리체험 프로그램 개발
-  - 노인 대상 인지능력 및 일상생활능력 향상 목적 Unity 프로그램
+- 노인을 위한 가상현실 요리체험 인지능력 향상 프로그램
+  - 노인 대상 인지능력 및 일상생활능력 향상 목적 Unity 프로그램 (사회복지학과 협업)
   - 마트에서 장을 본 뒤 주방에서 구매한 재료로 요리를 진행
   - HMD : Oculus Quest Pro 사용
+- GEMINI 연동 가상 에이전트를 이용한 요리 교육 VR 프로그램
+  - 먹거리 이해력 향상 목적 Unity 프로그램
+  - 가상 에이전트의 보조를 받아 요리를 진행
+  - HMD : Meta Quest 3 사용
     
 &nbsp;
 
@@ -63,7 +67,7 @@
 ## :page_facing_up: 논문
 - [노인을 위한 가상현실 요리체험 인지능력 향상 프로그램](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714779)
 - [심박수를 활용한 VR 반응형 콘텐츠](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492789)
-- [논문 작성 및 KCGS 학회 참여](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11866072)
+- [GEMINI 연동 가상 에이전트를 이용한 요리 교육 VR 프로그램](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11866072)
 
  &nbsp;
 
