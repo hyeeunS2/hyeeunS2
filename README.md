@@ -20,7 +20,7 @@
 - Mission
   - 미니게임을 통해 환경에 대한 경각심을 가지도록 하는 Unity 기반 방탈출 게임
 - Become Humane
-  - 괴물이 인간이 되기 위해 사람을 잡는 Unity 게임
+  - Unity 기반 스릴러 게임
 - 스마트 포트폴리오
   - 포트폴리오 제작 모바일 앱 구현
   - Android 스튜디오, Kotlin 프로그래밍
