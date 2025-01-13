@@ -72,8 +72,8 @@
  &nbsp;
 
 ## :sparkles: 진행 중인 프로젝트
-- Artwork 3D Modeling
-  - 미술품을 3D로 Modeling 및 Animation 삽입
+- Maya Modeling
+- Unreal Metaverse 
 
   
  &nbsp;
