@@ -26,8 +26,6 @@
   - Android 스튜디오, Kotlin 프로그래밍
 - 2D 플랫폼 액션 게임
   - Unity 기반 액션 게임
-- 마법 대장간 게임
-  - Unity 기반 2D 맵 디자인
 - The Fairy
   - 동화 <선녀와 나무꾼> 각색 스토리. 선녀의 입장에서 다친 사슴을 돌봐주고 나무꾼을 만나게 되는 Unity 기반 가상현실 게임
   - HMD : Oculus Quest 2 사용
