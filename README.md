@@ -1,8 +1,6 @@
 ## :trophy: 수상경력 및 활동
-- Arduino 심화 학습 참여
 - 한라 만도 코딩 교육 참여
 - KB 국민은행 소프트웨어 경진대회 참가
-- 증강현실 교육 수강
 - GVE(Graphics & Virtual Environment Lab.) 연구실 학부연구생
 - 소프트웨어 캡스톤 디자인 (장려상 수상)
 - 교내 행사 한림모여코딩 프로그램 (우수활동팀 선정)
@@ -20,14 +18,14 @@
 - Mission
   - 미니게임을 통해 환경에 대한 경각심을 가지도록 하는 Unity 기반 방탈출 게임
 - Become Humane
-  - Unity 기반 스릴러 게임
+  - 크리처가 되어 인간을 쫓는 Unity 기반 스릴러 게임
 - 스마트 포트폴리오
   - 포트폴리오 제작 모바일 앱 구현
   - Android 스튜디오, Kotlin 프로그래밍
 - 2D 플랫폼 액션 게임
   - Unity 기반 액션 게임
 - The Fairy
-  - 동화 <선녀와 나무꾼> 각색 스토리. 선녀의 입장에서 다친 사슴을 돌봐주고 나무꾼을 만나게 되는 Unity 기반 가상현실 게임
+  - 동화 <선녀와 나무꾼> 각색. 선녀의 시점에서 다친 사슴을 돌봐주고 나무꾼을 만나게 되는 Unity 기반 가상현실 게임
   - HMD : Oculus Quest 2 사용
 - Unity 기반 심박수 활용 VR 공포게임
   - 갤럭시 워치를 통해 심박수 데이터를 얻은 뒤 게임 진행에 반영
@@ -44,6 +42,9 @@
   - HMD : Meta Quest 3 사용
 - 핵융합 선도 기술 개발 사업 참여
   - Unreal 기반 핵융합 플라즈마 3차원 가시화
+- AI Professor
+  - 인공지능 교수에게 음성으로 질문 및 답변을 받을 수 있는 프로그램
+  - Unreal 5.5, MetaHuman, Gemini, STT/TTS, Lipsync
   
 &nbsp;
 
@@ -73,7 +74,7 @@
 
 ## :sparkles: 진행 중인 프로젝트
 - Maya Modeling
-- Unreal Metaverse 
+- Unreal Metaverse  
 
   
  &nbsp;
