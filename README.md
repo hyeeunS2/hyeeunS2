@@ -15,7 +15,7 @@
 &nbsp;
 
 ## :computer: 프로젝트
-- Mission
+- [Mission](https://github.com/heeyapro/Mission)
   - 미니게임을 통해 환경에 대한 경각심을 가지도록 하는 Unity 기반 방탈출 게임
 - Become Humane
   - 크리처가 되어 인간을 쫓는 Unity 기반 스릴러 게임
