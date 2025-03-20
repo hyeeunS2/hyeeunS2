@@ -28,7 +28,7 @@
 - [Unity 기반 심박수 활용 VR 공포게임](https://github.com/lbd0/HeartRate_WatchApp)
   - 갤럭시 워치를 통해 심박수 데이터를 얻은 뒤 게임 진행에 반영
   - HMD : Oculus Quest 2 사용
-- AR Face Filter 앱
+- [AR Face Filter 앱](https://github.com/hyeeunS2/ARFaceFilter)
   - Unity ARFoundation 사용
 - [노인을 위한 가상현실 요리체험 인지능력 향상 프로그램](https://github.com/lbd0/2023_SeniorCooking)
   - 노인 대상 인지능력 및 일상생활능력 향상 목적 Unity 프로그램
