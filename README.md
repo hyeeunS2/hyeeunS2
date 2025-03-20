@@ -1,4 +1,4 @@
-## :trophy: 수상경력 및 활동
+## :trophy: 수상내역 및 활동
 - 한라 만도 코딩 교육 참여
 - KB 국민은행 소프트웨어 경진대회 참가
 - GVE(Graphics & Virtual Environment Lab.) 연구실 학부연구생
