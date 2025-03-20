@@ -22,7 +22,7 @@
 - [스마트 포트폴리오](https://github.com/hyeeunS2/SmartPortfolio)
   - 포트폴리오 제작 모바일 앱 구현
   - Android Studio, Kotlin 프로그래밍
-- The Fairy(https://github.com/hyeeunS2/Thefairy)
+- [The Fairy](https://github.com/hyeeunS2/Thefairy)
   - 동화 <선녀와 나무꾼> 각색. 선녀의 시점에서 다친 사슴을 돌봐주고 나무꾼을 만나게 되는 Unity 기반 가상현실 게임
   - HMD : Oculus Quest 2 사용
 - [Unity 기반 심박수 활용 VR 공포게임](https://github.com/lbd0/HeartRate_WatchApp)
