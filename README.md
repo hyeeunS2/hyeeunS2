@@ -19,10 +19,10 @@
   - 미니게임을 통해 환경에 대한 경각심을 가지도록 하는 Unity 기반 방탈출 게임
 - [Become Humane](https://github.com/hyeeunS2/Become_Human)
   - 크리처가 되어 인간을 쫓는 Unity 기반 스릴러 게임
-- 스마트 포트폴리오
+- [스마트 포트폴리오](https://github.com/hyeeunS2/SmartPortfolio)
   - 포트폴리오 제작 모바일 앱 구현
-  - Android 스튜디오, Kotlin 프로그래밍
-- The Fairy
+  - Android Studio, Kotlin 프로그래밍
+- The Fairy(https://github.com/hyeeunS2/Thefairy)
   - 동화 <선녀와 나무꾼> 각색. 선녀의 시점에서 다친 사슴을 돌봐주고 나무꾼을 만나게 되는 Unity 기반 가상현실 게임
   - HMD : Oculus Quest 2 사용
 - [Unity 기반 심박수 활용 VR 공포게임](https://github.com/lbd0/HeartRate_WatchApp)
