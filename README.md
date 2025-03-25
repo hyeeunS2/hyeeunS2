@@ -2,8 +2,8 @@
 - 이름: 이혜은
 - 생년월일: 2001.05.02
 - 전공: 한림대학교 정보과학대학 소프트웨어학부 콘텐츠IT전공
-- Email: hyesilver781@gmail.com  
-  &nbsp;
+- Email: hyesilver781@gmail.com
+    
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -13,7 +13,7 @@
   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
   ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-&nbsp;
+
 
 ## :trophy: 수상내역 및 활동
 - 한라 만도 코딩 교육 참여
@@ -28,8 +28,6 @@
 - 2024 HCI 학회 참여 (노인을 위한 가상현실 요리체험 인지능력 향상 프로그램)
 - 핵융합 선도 기술 개발 사업 참여
 - 2024 KCGS 학회 참여 (GEMINI 연동 가상 에이전트를 이용한 요리 교육 VR 프로그램)
-  
-&nbsp;
 
 ## :computer: 프로젝트
 - [Mission](https://github.com/heeyapro/Mission)
@@ -61,8 +59,7 @@
 - AI Professor
   - 인공지능 교수에게 음성으로 질문 및 답변을 받을 수 있는 프로그램
   - Unreal 5.5, MetaHuman, Gemini, STT/TTS, Lipsync
-  
-&nbsp;
+
 
 ## ✏️ 학습
 - <언리얼 엔진 4 머티리얼 : 70가지 예제로 배우는 머티리얼 제작과 활용> 책 학습
@@ -78,23 +75,17 @@
    - Unreal Rigging, Animation, Sequencer
 - Unreal niagara system 튜토리얼 학습
 - Unity ARFoundation 튜토리얼 및 강의 수강
-  
-&nbsp;
 
 ## :page_facing_up: 논문
 - [심박수를 활용한 VR 반응형 콘텐츠](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492789)
 - [노인을 위한 가상현실 요리체험 인지능력 향상 프로그램](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714779)
 - [GEMINI 연동 가상 에이전트를 이용한 요리 교육 VR 프로그램](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11866072)
 
- &nbsp;
-
 ## :sparkles: 진행 중인 프로젝트
 - Maya Modeling
 - Unreal Metaverse  
 
-  
- &nbsp;
- 
+
 ## 📖 전공과목
  ### 학부 강의
 - 컴퓨터 프로그래밍1 (C)
