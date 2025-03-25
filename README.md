@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=200&section=header&text=LeeHyeEun&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Speech&color=auto&height=200&section=header&text=LeeHyeEun&fontSize=90" />
 ## 🙌 소개
 - 이름: 이혜은
 - 생년월일: 2001.05.02
