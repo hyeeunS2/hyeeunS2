@@ -1,4 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=LeeHyeEun&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=Welcome!😊&desc=This%20is%20Sumin%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
+
   
 ## 🙌 소개
 - 이름: 이혜은
@@ -6,7 +8,6 @@
 - 전공: 한림대학교 정보과학대학 소프트웨어학부 콘텐츠IT전공
 - Email: hyesilver781@gmail.com
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeunS2&layout=compact"><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=calm_pink&show_icons=true)
   
 ***
