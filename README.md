@@ -60,8 +60,8 @@
 ## ✏️ 학습
 - <언리얼 엔진 4 머티리얼 : 70가지 예제로 배우는 머티리얼 제작과 활용> 책 학습
 - Unreal Chaos Destruction 기능 튜토리얼 학습
-- Blender 3D Modeling 강의 수강
-  - 배운 내용을 바탕으로 자체적인 Modeling 실시
+- [Blender 3D Modeling](https://github.com/hyeeunS2/Blender_3DModeling)
+  - 강의를 보고 배운 내용을 바탕으로 자체적인 Modeling 실시
 - ARFoundaion 강의 수강
 - <Unreal Engine 5로 만드는 나만의 3D 영화 세트> 책 학습
    - Blender Modeling, sculpting, UV mapping
