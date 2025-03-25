@@ -14,7 +14,7 @@
   ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-
+***
 ## :trophy: 수상내역 및 활동
 - 한라 만도 코딩 교육 참여
 - KB 국민은행 소프트웨어 경진대회 참가
