@@ -3,7 +3,7 @@
 - 생년월일: 2001.05.02
 - 전공: 한림대학교 정보과학대학 소프트웨어학부 콘텐츠IT전공
 - Email: hyesilver781@gmail.com
-- 
+  
 &nbsp;
 
 ## :trophy: 수상내역 및 활동
