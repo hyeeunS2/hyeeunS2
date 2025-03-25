@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hyeeun%20Lee&fontSize=90" />
 
-  
 ## 🙌 소개
 - 이름: 이혜은
 - 생년월일: 2001.05.02
