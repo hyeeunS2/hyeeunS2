@@ -3,7 +3,7 @@
 ## 🙌 소개
 - 이름: 이혜은
 - 생년월일: 2001.05.02
-- 전공: 한림대학교 정보과학대학 소프트웨어학부 콘텐츠IT전공
+- 학력: 한림대학교 정보과학대학 소프트웨어학부 콘텐츠IT전공
 - Email: hyesilver781@gmail.com
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=calm_pink&show_icons=true)
