@@ -4,7 +4,7 @@
 - 전공: 한림대학교 정보과학대학 소프트웨어학부 콘텐츠IT전공
 - Email: hyesilver781@gmail.com
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=calm_pink_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=calm_pink&show_icons=true)
   
 ***
 ## :trophy: 수상내역 및 활동
