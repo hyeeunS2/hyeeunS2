@@ -1,10 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=Speech&color=auto&height=200&section=header&text=LeeHyeEun&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=LeeHyeEun&fontSize=90" />
+  
 ## 🙌 소개
 - 이름: 이혜은
 - 생년월일: 2001.05.02
 - 전공: 한림대학교 정보과학대학 소프트웨어학부 콘텐츠IT전공
 - Email: hyesilver781@gmail.com
   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeeunS2&layout=compact"><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=calm_pink&show_icons=true)
   
 ***
