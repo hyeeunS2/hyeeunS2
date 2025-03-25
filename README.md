@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header=ddd&text=Welcome!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hyeeun&fontSize=90" />
 
   
 ## 🙌 소개
