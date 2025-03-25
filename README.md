@@ -2,7 +2,7 @@
 - 이름: 이혜은
 - 생년월일: 2001.05.02
 - 전공: 한림대학교 정보과학대학 소프트웨어학부 콘텐츠IT전공
-- Email: hyesilver781@gmail.com
+- Email: hyesilver781@gmail.com  
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
