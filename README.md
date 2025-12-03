@@ -79,11 +79,6 @@
 - [GEMINI 연동 가상 에이전트를 이용한 요리 교육 VR 프로그램](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11866072)
     
 ***
-## :sparkles: 진행 중인 프로젝트
-- Maya Modeling
-- Unreal Metaverse  
-    
-***
 
 ## 📖 전공과목
  ### 학부 강의
