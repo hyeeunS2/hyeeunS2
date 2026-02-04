@@ -5,7 +5,6 @@
 - 생년월일: 2001.05.02
 - 학력: 한림대학교 정보과학대학 소프트웨어학부 콘텐츠IT전공
 - Email: hyesilver781@gmail.com
-
   
 ***
 ## :trophy: 수상내역 및 활동
@@ -53,6 +52,8 @@
 - AI Professor
   - 인공지능 교수에게 음성으로 질문 및 답변을 받을 수 있는 프로그램
   - Unreal 5.5, MetaHuman, Gemini, STT/TTS, Lipsync
+- [Dreamcatcher](https://github.com/hyeeunS2/Dreamcatcher)
+  - 2D 액션 플랫폼 게임
 
     
 ***
