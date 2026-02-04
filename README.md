@@ -53,7 +53,8 @@
   - 인공지능 교수에게 음성으로 질문 및 답변을 받을 수 있는 프로그램
   - Unreal 5.5, MetaHuman, Gemini, STT/TTS, Lipsync
 - [Dreamcatcher](https://github.com/hyeeunS2/Dreamcatcher)
-  - 2D 액션 플랫폼 게임
+  - Unity 기반 2D 액션 플랫폼 게임
+  - Blender를 사용한 오프닝 영상 제작
 
     
 ***
