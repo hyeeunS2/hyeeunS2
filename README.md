@@ -8,7 +8,7 @@
   
 ***
 ## :computer: 프로젝트
-#### Unity
+#### ⚙️Unity
 - [GEMINI 연동 가상 에이전트를 이용한 요리 교육 VR 프로그램](https://github.com/lbd0/2024_KCGS)
   - 먹거리 이해력 향상 목적
   - 가상 에이전트의 보조를 받아 요리를 진행
@@ -34,7 +34,7 @@
 - [Mission](https://github.com/heeyapro/Mission)
   - 미니게임을 통해 환경에 대한 경각심을 가지도록 하는 방탈출 게임
 
-#### Unreal Engine
+#### ⚙️Unreal Engine
 - 핵융합 선도 기술 개발 사업 참여
   - 핵융합 플라즈마 3차원 가시화 연구
 - AI 교수 프로토타입 제작
