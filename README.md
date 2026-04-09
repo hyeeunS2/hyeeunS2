@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hyeeun%20Lee&fontSize=90" />
 
-## 🙌 소개
+## 💬 소개
 - 이름: 이혜은
 - 생년월일: 2001.05.02
 - 학력: 한림대학교 정보과학대학 소프트웨어학부 콘텐츠IT전공
