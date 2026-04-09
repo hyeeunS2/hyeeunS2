@@ -41,7 +41,7 @@
   - 인공지능 교수에게 음성으로 질문 및 답변을 받을 수 있는 프로그램
   - MetaHuman, Gemini, STT/TTS, Lipsync
  
-#### 기타
+#### ⚙️기타
 - [스마트 포트폴리오](https://github.com/hyeeunS2/SmartPortfolio)
   - 포트폴리오 제작 모바일 앱 구현
   - Android Studio, Kotlin
