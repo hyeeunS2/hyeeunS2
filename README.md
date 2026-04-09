@@ -7,22 +7,8 @@
 - Email: hyesilver781@gmail.com
   
 ***
-## :trophy: 수상내역 및 활동
-- KB 국민은행 소프트웨어 경진대회 참가
-- GVE(Graphics & Virtual Environment Lab.) 연구실 학부연구생
-- 소프트웨어 캡스톤 디자인 (장려상 수상)
-- 교내 행사 한림모여코딩 프로그램 (우수활동팀 선정)
-- 2023 KCGS 학회 참여 (심박수 활용 VR 반응형 콘텐츠/ 우수학부 포스터상 수상)
-- 일상생활의 휴식을 위한 산림 VR 실험 안내자
-- <청각 시스템 치료 기술> 강의 조교
-- 2023년 정보과학대학 학술제 참여 (은상 수상)
-- 2024 HCI 학회 참여 (노인을 위한 가상현실 요리체험 인지능력 향상 프로그램)
-- 핵융합 선도 기술 개발 사업 참여
-- 2024 KCGS 학회 참여 (GEMINI 연동 가상 에이전트를 이용한 요리 교육 VR 프로그램)
-- AI 연동 교수
-    
-***
 ## :computer: 프로젝트
+
 - [Mission](https://github.com/heeyapro/Mission)
   - 미니게임을 통해 환경에 대한 경각심을 가지도록 하는 Unity 기반 방탈출 게임
 - [Become Humane](https://github.com/hyeeunS2/Become_Human)
@@ -55,28 +41,25 @@
 - [Dreamcatcher](https://github.com/hyeeunS2/Dreamcatcher)
   - Unity 기반 2D 액션 플랫폼 게임
   - Blender를 사용한 오프닝 영상 제작
-
+***
+## :trophy: 수상내역
+- 소프트웨어 캡스톤 디자인 (장려상 수상)
+- 교내 행사 한림모여코딩 프로그램 (우수활동팀 선정)
+- 2023 KCGS 학회 참여 (심박수 활용 VR 반응형 콘텐츠/ 우수학부 포스터상 수상)
+- 2023년 정보과학대학 학술제 참여 (은상 수상)
     
 ***
-## ✏️ 학습
-- <언리얼 엔진 4 머티리얼 : 70가지 예제로 배우는 머티리얼 제작과 활용> 책 학습
-- Unreal Chaos Destruction 기능 튜토리얼 학습
-- [Blender 3D Modeling](https://github.com/hyeeunS2/Blender_3DModeling)
-  - 강의를 보고 배운 내용을 바탕으로 자체적인 Modeling 실시
-- ARFoundaion 강의 수강
-- <Unreal Engine 5로 만드는 나만의 3D 영화 세트> 책 학습
-   - Blender Modeling, sculpting, UV mapping
-   - xNormal Texture Baking
-   - MetaHuman
-   - Quixel mixer Model Texturing
-   - Unreal Rigging, Animation, Sequencer
-- Unreal niagara system 튜토리얼 학습
-- Unity ARFoundation 튜토리얼 및 강의 수강
-    
+## ✏️ 활동
+- KB 국민은행 소프트웨어 경진대회 참가
+- GVE(Graphics & Virtual Environment Lab.) 연구실 학부연구생
+- 일상생활의 휴식을 위한 산림 VR 실험 안내자
+- <청각 시스템 치료 기술> 강의 조교
+- 2024 HCI 학회 참여 (노인을 위한 가상현실 요리체험 인지능력 향상 프로그램)
+- 핵융합 선도 기술 개발 사업 참여 (Unreal Engine)
+- 2024 KCGS 학회 참여 (GEMINI 연동 가상 에이전트를 이용한 요리 교육 VR 프로그램)
+
 ***
 ## :page_facing_up: 논문
 - [심박수를 활용한 VR 반응형 콘텐츠](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492789)
 - [노인을 위한 가상현실 요리체험 인지능력 향상 프로그램](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714779)
 - [GEMINI 연동 가상 에이전트를 이용한 요리 교육 VR 프로그램](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11866072)
-    
-***
